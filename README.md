@@ -14,8 +14,10 @@ Ensure you have Python installed on your system and the following modules:
 
 To install the modules, run:
 
-(```pip install tk
- pip install base64```)
+```python
+pip install tk
+pip install base64
+```
 How It Works
 Enter your message in the provided text area.
 Provide a key for encryption or decryption.
