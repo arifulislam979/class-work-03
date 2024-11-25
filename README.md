@@ -1,9 +1,9 @@
 # Secret Communication Tool
-Overview
+###Overview
 This tool allows you to send personal messages and information with privacy by encrypting and decrypting the text.
 
-Encryption: Translates plain text into ciphertext, making it unreadable without the decryption key.
-Decryption: Converts ciphertext back into plaintext using the correct key.
+**Encryption:** Translates plain text into ciphertext, making it unreadable without the decryption key.
+**Decryption:** Converts ciphertext back into plaintext using the correct key.
 Prerequisites
 Ensure you have Python installed on your system and the following modules:
 
