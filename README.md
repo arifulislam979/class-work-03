@@ -14,7 +14,7 @@ Ensure you have Python installed on your system and the following modules:
 
 To install the modules, run:
 
-```python
+```
 pip install tk
 pip install base64
 ```
