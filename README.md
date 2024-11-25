@@ -5,17 +5,17 @@ This tool allows you to send personal messages and information with privacy by e
 * **Encryption:** Translates plain text into ciphertext, making it unreadable without the decryption key.
 
 * **Decryption:** Converts ciphertext back into plaintext using the correct key.
-Prerequisites
+
+### Prerequisites
 Ensure you have Python installed on your system and the following modules:
 
-Tkinter: For the graphical user interface.
-Base64: For encryption and decryption.
+1. Tkinter: For the graphical user interface.
+2. Base64: For encryption and decryption.
+
 To install the modules, run:
 
-bash
-Copy code
-pip install tk
-pip install base64
+`pip install tk`
+`pip install base64`
 How It Works
 Enter your message in the provided text area.
 Provide a key for encryption or decryption.
